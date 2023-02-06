@@ -1,0 +1,73 @@
+.wd-a{
+    color: white;
+    height: 62px;
+    position: relative;
+    left: 16px;
+    padding-top: 12px;
+}
+
+.wd-bookmark-tuit{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-basis: auto;
+    align-items: stretch;
+    overflow: hidden;
+}
+
+.wd-profile-pic{
+    padding: 10px 5px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.wd-bookmark-content{
+    padding: 12px;
+    width: 506px;
+}
+
+.wd-font-15{
+    font-size: 15px;
+}
+
+.wd-bookmark-main-text{
+    padding-bottom: 12px;
+    padding-right: 16px;
+}
+
+.wd-bookmark-image{
+    padding-top: 12px;
+    width: 506px;
+    height: 264px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.wd-curved-bottom{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.wd-reaction{
+    position: relative;
+    left: 16px;
+    text-decoration: none;
+    color: #6E767D;
+    font-size: 20px;
+    padding: 36px;
+}
+
+.wd-red{
+    color:red;
+}
+
+.wd-indent-12{
+    position: relative;
+    left: 12px;
+}
+
+.wd-reaction-photo{
+
+}
+
