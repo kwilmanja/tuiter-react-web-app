@@ -1,0 +1,55 @@
+
+.wd-a-search-bar {
+    background-color: darkgrey;
+    color: white;
+    width: 80%;
+    height: 30px;
+    float: left;
+    border-radius: 50px;
+    position: relative;
+    left: 16px;
+}
+
+.wd-a-gear-image {
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 15px;
+}
+
+
+.wd-b-links{
+    position: relative;
+    left: 16px;
+    text-decoration: none;
+    color: #6E767D;
+    font-size: 15px;
+    padding: 16px;
+}
+
+.wd-b-highlighted-link{
+    border-bottom: medium solid #1DA1F2;
+    color: #1DA1F2;
+}
+
+.wd-tuit-image{
+    position: absolute;
+    padding: 10px;
+    right: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.wd-tuit-with-image{
+    height: 120px;
+}
+
+.wd-tuit{
+    height: 70px;
+
+}
+
+
+

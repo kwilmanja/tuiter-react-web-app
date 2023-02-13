@@ -1,55 +1,78 @@
 
-.wd-a-search-bar {
-    background-color: darkgrey;
-    color: white;
-    width: 80%;
-    height: 30px;
-    float: left;
+.wd-button{
+    width: 100%;
     border-radius: 50px;
+}
+
+.wd-follow-images{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.wd-follow-row{
+    height: 30px;
+}
+
+.wd-follow-profile{
+    font-size: 12px;
+}
+
+.wd-follow-tag{
+    font-size: 10px;
+}
+
+.wd-follow-button{
+    font-size: 8px;
+    border-radius: 20px;
     position: relative;
-    left: 16px;
-}
-
-.wd-a-gear-image {
-    background-color: black;
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    right: 15px;
+    right: 0px;
 }
 
 
-.wd-b-links{
+.wd-search-box {
+    border: none;
+    width: 100%;
+}
+
+.wd-search-bar{
+    border-radius: 30px;
+    height: 35px;
+}
+
+.wd-border{
+    border: 1px solid #475154;
+}
+
+.wd-margin-5{
+    margin: 5px;
+}
+
+.wd-margin-sides{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.wd-main-image{
+    width: 100%;
+}
+
+.wd-main-text{
+    color: white;
+    font-size: 30px;
     position: relative;
-    left: 16px;
-    text-decoration: none;
-    color: #6E767D;
-    font-size: 15px;
-    padding: 16px;
+    bottom: 40px;
+    left: 5px;
+    height: 1px;
 }
 
-.wd-b-highlighted-link{
-    border-bottom: medium solid #1DA1F2;
-    color: #1DA1F2;
+.wd-text-grey{
+    color: #475154;
 }
 
 .wd-tuit-image{
-    position: absolute;
-    padding: 10px;
-    right: 10px;
-    width: 100px;
-    height: 100px;
-    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+    border-radius: 30px;
 }
-
-.wd-tuit-with-image{
-    height: 120px;
-}
-
-.wd-tuit{
-    height: 70px;
-
-}
-
-
-
