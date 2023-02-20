@@ -6,39 +6,33 @@
 
 .wd-follow-images{
     border-radius: 50%;
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
 }
 
 .wd-follow-row{
     height: 30px;
 }
 
-.wd-font-12{
+.wd-follow-profile{
     font-size: 12px;
+}
+
+.wd-follow-tag{
+    font-size: 10px;
 }
 
 .wd-follow-button{
-    font-size: 12px;
+    font-size: 8px;
     border-radius: 20px;
     position: relative;
-    top: 8px;
+    right: 0px;
 }
 
-.wd-follow-button-position{
-    width: 85px;
-}
-
-.wd-adjust-position-down-10{
-    position: relative;
-    top: 5px;
-    left: 10px;
-}
 
 .wd-search-box {
     border: none;
     width: 100%;
-    color: black;
 }
 
 .wd-search-bar{
@@ -65,7 +59,7 @@
 }
 
 .wd-main-text{
-    /*color: darkgray;*/
+    color: white;
     font-size: 30px;
     position: relative;
     bottom: 40px;
@@ -82,16 +76,3 @@
     height: 80px;
     border-radius: 30px;
 }
-
-.wd-explore-text{
-
-}
-
-.wd-explore-photos{
-    width: 100px;
-}
-
-.wd-white-background{
-    background-color: white;
-}
-
