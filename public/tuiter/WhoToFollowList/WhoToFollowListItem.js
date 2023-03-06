@@ -5,6 +5,8 @@ const WhoToFollowListItem = (who) => {
         <div class="row">
             <div class="col">
                 <img src="../../images/${who.avatarIcon}" class="d-inline-block wd-follow-images align-top">
+                
+                
                 <div class="d-inline-block">
                     <span class="wd-font-12"> ${who.userName} <i class="fas fa-check-circle"></i></span>
                     <br>
